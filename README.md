@@ -1,8 +1,8 @@
 # Projektarbeit - Analyse von Förderungstätigkeiten des Auswärtigen Amtes
-- Student: Daniel Müller
-- Matrikelnummer: 423918
+- Student: D. Müller
+- Matrikelnummer: ******
 - Vorlesung: Angewandte Programmierung
-- Dozent: Dipl.Phys. Dennis Glüsenkamp
+- Dozent:  D**** G*******
 
 # Gliederung
 
